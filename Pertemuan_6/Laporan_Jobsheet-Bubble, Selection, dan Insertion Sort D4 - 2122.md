@@ -522,11 +522,22 @@ class MainTiket{
 
 - Output:
     - Sebelum Sorting:
+    
+    
         ![Output_sebelum_sorting](Screenshots/tgsPraktikum_sblmsorting.jpg)
 
+
     - Setelah Sorting (Ascending):
+    
+    
         ![Output_setelah_sorting](Screenshots/asc_1.jpg)
         ![Output_setelah_sorting](Screenshots/asc_2.jpg)
+        
+        
     - Setelah Sorting (Descending):
+    
+    
         ![Output_setelah_sorting](Screenshots/dsc_1.jpg)
         ![Output_setelah_sorting](Screenshots/dsc_2.jpg)
+        
+        
