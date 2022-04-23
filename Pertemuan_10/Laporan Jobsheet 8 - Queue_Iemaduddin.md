@@ -580,30 +580,42 @@ Samakan hasil compile kode program Anda dengan gambar berikut ini.
 
       - peekPosition()
 
+
          ![Code_Tugas_1_peekPosition](Screenshots/Tugas_1_peekPosition.png)
 
 
       - peekAt()
 
+
          ![Code_Tugas_1_peekAt](Screenshots/Tugas_1_peekAt.png)
+         
          
       - Main()
 
+
          ![Code_Method_Main](Screenshots/Tugas_1_Main.jpg)
+         
+         
       - Output:
 
 
          ![Output_Tugas_1_1](Screenshots/Tugas_1_1.jpg)
+         
+         
          ![Output_Tugas_1_2](Screenshots/Tugas_1_2.jpg)
 
 
 2. Buatlah program antrian untuk mengilustasikan mahasiswa yang sedang meminta tanda tangan KRS pada dosen DPA di kampus. Ketika seorang mahasiswa akan mengantri, maka dia harus menuliskan terlebih dulu NIM, nama, absen, dan IPK seperti yang digambarkan pada Class diagram berikut:
 
+
    ![Diagram_Tugas_2_1](Screenshots/diagram_tugas_2_.jpg)
 
    Class diagram Queue digambarkan sebagai berikut:
 
+
    ![Diagram_Tugas_2_1](Screenshots/diagram_tugas_2_2.jpg)
+   
+   
    ![Diagram_Tugas_2_3](Screenshots/diagram_tugas_2_3.jpg)
 
 
@@ -858,5 +870,7 @@ Samakan hasil compile kode program Anda dengan gambar berikut ini.
       - Output:
 
          ![Output_Tugas2_1](Screenshots/Tugas_2_1.jpg)
+         
          ![Output_Tugas2_2](Screenshots/Tugas_2_2.jpg)
+         
          ![Output_Tugas2_3](Screenshots/Tugas_2_3.jpg)
