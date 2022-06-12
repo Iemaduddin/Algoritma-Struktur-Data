@@ -181,13 +181,13 @@ Verifikasi hasil kompilasi kode program Anda dengan gambar berikut ini.
   **Hasil running pada langkah ke-11**
 
 
-  ~[Verifikasi_Hasil_Percobaan_Prakt1.1](Screenshots/Bukti_Verifikasi_Praktikum_1.1.jpg)
+  ![Verifikasi_Hasil_Percobaan_Prakt1.1](Screenshots/Bukti_Verifikasi_Praktikum_1.1.jpg)
 
                  
   **Hasil running pada langkah ke-13**                       
 
 
-  ~[Verifikasi_Hasil_Percobaan_Prakt1.1](Screenshots/Bukti_Verifikasi_Praktikum_1.1.jpg)
+  ![Verifikasi_Hasil_Percobaan_Prakt1.1](Screenshots/Bukti_Verifikasi_Praktikum_1.1.jpg)
 
 
 ### **2.1.3 Pertanyaan Percobaan**
